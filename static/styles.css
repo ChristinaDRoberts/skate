@@ -1,0 +1,12 @@
+.button{
+    width:30%;
+    background-color: red;
+}
+
+body {
+    background-color: aqua;
+}
+
+ul{
+    list-style: none;
+}
