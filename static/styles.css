@@ -60,7 +60,7 @@ header{
 }
 
 .three-boxes{
-    /*border: 2px solid black;*/
+
     position: relative;
     width: 68%;
     text-align: center;
@@ -179,12 +179,7 @@ p{
     z-index: 1;
 }
 
-/*.lance{*/
-    /*background: url("./images/sk8er-4.png") no repeat top/cover;*/
-    /*height: 40%;*/
-    /*width: 100%;*/
-    /*z-index: 3;*/
-/*}*/
+
 
 
 .col-md-4{
