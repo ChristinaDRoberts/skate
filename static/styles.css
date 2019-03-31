@@ -1,6 +1,60 @@
 
+.skater-lance{
+    background-image: url("./images/sk8er-4.png");
+    background-repeat: no-repeat;
+    height: 20%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
 
+}
 
+.skater-lance:before:{
+    position:absolute;
+}
+
+.skater-rodney{
+     background-image: url("./images/sk8er-3.png");
+    background-repeat: no-repeat;
+    height: 20%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+}
+.skater-rodney:before{
+    position:absolute;
+}
+
+.skater-steve{
+     background-image: url("./images/sk8er-1.png");
+    background-repeat: no-repeat;
+    height: 30%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+}
+
+.skater-steve:before{
+    position:absolute;
+}
+
+.skater-tommy{
+    background-image: url("./images/cropped.png");
+    background-repeat: no-repeat;
+    height: 50%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+
+}
+
+.col-md-12{
+    margin-top: 10px;
+}
+.bold_name{
+    position:relative;
+    color: white;
+}
 
 body{
     background: url("./images/bg.jpg") no repeat top/cover;
